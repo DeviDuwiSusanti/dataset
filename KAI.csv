@@ -1,6 +1,6 @@
-reviewId,userName,userImage,content,score,thumbsUpCount,reviewCreatedVersion,at,replyContent,repliedAt,appVersion
+reviewId,userName,userImage,content,score,thumbsUpCount,reviewCreatedVersion,at,replyContent,repliedAt,appVersion,label
 a3b0f915-a628-48c7-80b3-640bae7c6fff,Pur Wanto,https://play-lh.googleusercontent.com/a/ACg8ocItV8drlDvDFoS_3V9I9nr1XMd66i5ejH37Ct5TJ16xYv1J6A=mo,Tolong untuk ada fitur pembelian tiket LRT nya min,4,0,6.7.0,2024-10-01 06:17:54,,,6.7.0
-a95973d4-2986-49da-a6f3-a07124ea8491,Nasa Nasa,https://play-lh.googleusercontent.com/a/ACg8ocL4-dWYSyXaDKoxPb3LPzTjl0n_i9uN7kBe553Wp4FWv-6gcw=mo,"Jadul, transaksi gagal, uangnya tetap kesedot dan tidak kembali, klaimnya ribet .",1,0,6.7.0,2024-10-01 06:06:56,,,6.7.0
+a95973d4-2986-49da-a6f3-a07124ea8491,Nasa Nasa,https://play-lh.googleusercontent.com/a/ACg8ocL4-dWYSyXaDKoxPb3LPzTjl0n_i9uN7kBe553Wp4FWv-6gcw=mo,"Jadul, transaksi gagal, uangnya tetap kesedot dan tidak kembali, klaimnya ribet .",1,0,6.7.0,2024-10-01 06:06:56,,,6.7.0,"negatif"
 ec5101a7-56e1-492e-a5e3-e675f574cab0,Dedi Sethya,https://play-lh.googleusercontent.com/a/ACg8ocIkIP9jrDNEmx6H98rGfud7vqR3pMxOwqokSe9URjyRgInwvg=mo,Aplikasi nya sekarang nyebelin.....,2,0,6.8.1,2024-10-01 05:38:50,,,6.8.1
 44c3720b-2c3a-4e0d-bb93-ad7012e0e5d9,Asep Suherman,https://play-lh.googleusercontent.com/a/ACg8ocJWhjdu90Yk5xTAgZmmKdgEWR-_--RWGcngF7LByRVuA5EIzQ=mo,Parah semenjak di upgrade jd gak bisa masuk,1,0,6.8.1,2024-10-01 04:47:47,,,6.8.1
 eab500c4-6492-42db-8b72-66752cee4600,Lucky Wiguna,https://play-lh.googleusercontent.com/a/ACg8ocJSKoiEbNRhdxlVUHTXpCk6Q7I-1IiNiDc-hhU5x_bn_3hZSdfj=mo,Proses pembatalan tiket terlalu lama,1,0,6.7.0,2024-10-01 03:08:21,,,6.7.0
